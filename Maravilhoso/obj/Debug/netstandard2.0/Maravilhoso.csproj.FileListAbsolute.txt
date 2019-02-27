@@ -1,0 +1,12 @@
+/Users/aluno/Projects/Maravilhoso/Maravilhoso/bin/Debug/netstandard2.0/Maravilhoso.deps.json
+/Users/aluno/Projects/Maravilhoso/Maravilhoso/bin/Debug/netstandard2.0/Maravilhoso.dll
+/Users/aluno/Projects/Maravilhoso/Maravilhoso/bin/Debug/netstandard2.0/Maravilhoso.pdb
+/Users/aluno/Projects/Maravilhoso/Maravilhoso/obj/Debug/netstandard2.0/Maravilhoso.csprojAssemblyReference.cache
+/Users/aluno/Projects/Maravilhoso/Maravilhoso/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Projects/Maravilhoso/Maravilhoso/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Projects/Maravilhoso/Maravilhoso/obj/Debug/netstandard2.0/Maravilhoso.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/Maravilhoso/Maravilhoso/obj/Debug/netstandard2.0/Maravilhoso.AssemblyInfoInputs.cache
+/Users/aluno/Projects/Maravilhoso/Maravilhoso/obj/Debug/netstandard2.0/Maravilhoso.AssemblyInfo.cs
+/Users/aluno/Projects/Maravilhoso/Maravilhoso/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Projects/Maravilhoso/Maravilhoso/obj/Debug/netstandard2.0/Maravilhoso.dll
+/Users/aluno/Projects/Maravilhoso/Maravilhoso/obj/Debug/netstandard2.0/Maravilhoso.pdb

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{A359913C-4C77-4C83-BDC1-033CE0F07F9F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Maravilhoso/MainPage.xaml">
+    <Files>
+      <File FileName="Maravilhoso/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Maravilhoso/MainPage.xaml" Line="3" Column="69" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Maravilhoso" expanded="True">
+            <Node name="Maravilhoso" expanded="True">
+              <Node name="MainPage.xaml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Maravilhoso.Android FirstBuild="True" PreferredExecutionTarget="Android.5711d61d" />
+  <MonoDevelop.Ide.ItemProperties.Maravilhoso.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Maravilhoso FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
